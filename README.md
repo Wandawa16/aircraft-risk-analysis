@@ -55,7 +55,7 @@ A company looking to expand into aviation operations needs to understand which a
 ## Project Files
 - **project.ipynb** - Jupyter Notebook containing data analysis and visualizations.
 - **presentation.pdf** - A non-technical presentation summarizing key findings.
-- **dashboard_link.txt** - Link to the interactive Tableau dashboard.
+- **dashboard_link.txt** - Link to the interactive Tableau dashboard.(https://public.tableau.com/views/Book1_17422304606450/AircraftAccidentAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **data/** - Contains raw and cleaned datasets.
 - **notebooks/** - Exploratory analysis notebooks.
 - **images/** - Saved visualizations used in reports.
