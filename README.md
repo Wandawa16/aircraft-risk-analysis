@@ -31,8 +31,15 @@ A company looking to expand into aviation operations needs to understand which a
 
 ### Visualizations
 1. **Accident Trends Over Time** - Shows the number of accidents per year.
-2. **Top 10 Manufacturers with Most Accidents** - Highlights which aircraft makers have the highest accident occurrences.
-3. **Fatality Rates by Aircraft Model** - Displays models with the highest and lowest fatality rates.
+   ![image](https://github.com/user-attachments/assets/3cbded56-e20d-4e14-b8bf-07b389f92b3e)
+
+
+   
+3. **Top 10 Manufacturers with Most Accidents** - Highlights which aircraft makers have the highest accident occurrences.
+![image](https://github.com/user-attachments/assets/626b3b7c-7941-4bc6-ba45-190e2f14fa4e)
+
+5. **Fatality Rates by Aircraft Model** - Displays models with the highest and lowest fatality rates.
+   
 
 ## Conclusion
 ### Findings
