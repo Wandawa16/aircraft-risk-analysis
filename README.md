@@ -38,7 +38,9 @@ A company looking to expand into aviation operations needs to understand which a
 3. **Top 10 Manufacturers with Most Accidents** - Highlights which aircraft makers have the highest accident occurrences.
 ![image](https://github.com/user-attachments/assets/626b3b7c-7941-4bc6-ba45-190e2f14fa4e)
 
-5. **Fatality Rates by Aircraft Model** - Displays models with the highest and lowest fatality rates.
+5. **Accident by phase of flight ** - The bar chart below shows the number of aircraft accidents categorized by the phase of flight in which they occurred.  
+![image](https://github.com/user-attachments/assets/39649fbc-7090-415e-aebc-bae099d1512d)
+
    
 
 ## Conclusion
